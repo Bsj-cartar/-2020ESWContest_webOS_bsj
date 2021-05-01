@@ -2,5 +2,5 @@
 
 우수상 수상  
 
-[해당 git organization](https://github.com/2020ESWContest-webOS-4004)
+[해당 git organization](https://github.com/2020ESWContest-webOS-4004)  
 [출품작 유투브 영상](https://youtu.be/u6ILvVwciIk)
